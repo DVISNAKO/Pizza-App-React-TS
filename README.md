@@ -1,3 +1,5 @@
+![241678939-1e6be11e-3f4c-4694-bac7-6f1ef14dd3bb](https://github.com/DVISNAKO/Pizza-App-React-TS/assets/106438454/4a246133-a478-46af-b954-87fd3ebc976f)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
